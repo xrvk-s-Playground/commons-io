@@ -49,7 +49,7 @@ Apache Commons IO
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 The Apache Commons IO library contains utility classes, stream implementations, file filters,
-file comparators, endian transformation classes, and much more.
+file comparators, endian transformation classes, and much more...
 
 Documentation
 -------------
