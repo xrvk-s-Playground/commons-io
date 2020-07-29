@@ -1,0 +1,8 @@
+- import: codeql-suites/cpp-code-scanning.qls
+  from: codeql-cpp
+- exclude:
+    id:
+    - cpp/integer-multiplication-cast-to-long
+    - cpp/signed-overflow-check
+    - cpp/comparison-with-wider-type
+    - cpp/overflowing-snprintf
